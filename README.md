@@ -124,6 +124,11 @@ Current coverage highlights:
 
 > The tests inject lightweight stubs for `open_webui.*` modules so they can run anywhere, including CI.
 
+Live usage:
+
+<img width="751" height="1478" alt="image" src="https://github.com/user-attachments/assets/b334eadb-7b77-4763-8bd4-65c12dd11279" />
+
+
 ## Repository Layout
 ```
 open-webui-chat-repair/
